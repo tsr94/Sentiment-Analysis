@@ -7,7 +7,7 @@ from nltk.corpus import stopwords
 import streamlit as st
 from nltk.stem.porter import PorterStemmer ## for all words like love loved loving -> love
 from PIL import Image
-#nltk.download('stopwords')
+nltk.download('stopwords')
 # Set the title of the app
 
 # Load images for styling
