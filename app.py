@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import re
-import nltk
+import nltk==3.6.2
 from nltk.corpus import stopwords
 import streamlit as st
 from nltk.stem.porter import PorterStemmer ## for all words like love loved loving -> love
