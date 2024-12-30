@@ -2,3 +2,4 @@ streamlit
 pandas
 nltk==3.7
 numpy
+sklearn
